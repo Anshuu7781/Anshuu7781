@@ -25,7 +25,7 @@ I enjoy working with **Python**, analyzing datasets, visualizing insights, and b
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-Python | C | C++ | Java | SQL  
+Python | C | SQL  
 
 **Libraries & Tools:**  
 Pandas | NumPy | Matplotlib | Scikit-learn | Git | VS Code  
