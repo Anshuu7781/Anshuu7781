@@ -14,17 +14,10 @@ Building small, meaningful projects — one model at a time.
 ---
 
 ## 🧰 Tech Stack  
-**Languages:** Python | C | C++ | Java | SQL  
+**Languages:** Python | C | SQL  
 **Libraries:** Pandas | NumPy | Matplotlib | Scikit-learn  
 **Web:** HTML | CSS | JavaScript  
 **Tools:** Git | VS Code | Linux  
-
----
-
-## 📂 Projects  
-🔹 **Student Score Prediction** – Linear Regression model predicting marks  
-🔹 **COVID-19 Data Analysis** – Visualizing pandemic trends using Python  
-🔹 **Movie Recommendation System** *(In Progress)* – Content-based filtering  
 
 ---
 
