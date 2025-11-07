@@ -24,7 +24,6 @@ Building small, meaningful projects — one model at a time.
 ## 📫 Connect With Me  
 📧 [Ansh.sri.7781@gmail.com](mailto:Ansh.sri.7781@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/ansh-srivastava-a2a04a310)  
-💻 [GitHub](https://github.com/Anshuu7781)
 
 ---
 
