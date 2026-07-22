@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ansh%20Srivastava&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Building%20with%20LLMs%2C%20RAG%20%26%20Predictive%20Models&descAlignY=58&descColor=b388ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ansh%20Srivastava&fontSize=40&fontColor=00f5ff&fontAlignY=45" width="100%"/>
 
-<a href="https://github.com/Anshuu7781">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=00F5FF&center=true&vCenter=true&width=560&lines=Turning+data+into+decisions.;Building+RAG+pipelines+with+LangChain.;Forecasting+the+future%2C+one+model+at+a+time.;Open+to+AI%2FML+%26+Data+Science+roles." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer+%7C+Data+Scientist;Building+RAG+pipelines+with+LangChain;Open+to+AI%2FML+roles" alt="Typing SVG" />
 
 </div>
 
@@ -30,6 +28,8 @@ I build end-to-end ML systems — from data pipelines to deployed products — w
 ### ⚡ Quick Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anshuu7781&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=b388ff&text_color=c9d1d9" width="100%"/>
+
+*(If this card is blank, see the note below — it's a known outage on GitHub's side, not your setup.)*
 
 </td>
 </tr>
@@ -89,12 +89,6 @@ Regression model predicting performance, benchmarked with R², RMSE, and MAE.
 </table>
 
 <div align="center">
-
-### 📊 Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuu7781&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=b388ff&fire=00f5ff&currStreakLabel=00f5ff" width="70%"/>
-
-<br><br>
 
 ### 📫 Let's Connect
 
