@@ -77,9 +77,10 @@ End-to-end ML web app predicting exam scores via Linear Regression (R² ≈ 0.78
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshuu7781&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuu7781&layout=compact&hide_border=true" />
+  <img height="165" src="stats.svg" />
+  <img height="165" src="top-langs.svg" />
 </p>
+<sub>These are generated daily by a GitHub Action (see `.github/workflows/update-stats.yml`) and committed to this repo, so they keep working even if the live stats service is down.</sub>
 
 ---
  
