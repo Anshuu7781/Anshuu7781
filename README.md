@@ -74,13 +74,10 @@ End-to-end ML web app predicting exam scores via Linear Regression (R² ≈ 0.78
  
 ---
  
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="stats.svg" />
-  <img height="165" src="top-langs.svg" />
-</p>
-<sub>These are generated daily by a GitHub Action (see `.github/workflows/update-stats.yml`) and committed to this repo, so they keep working even if the live stats service is down.</sub>
+### 📊 Activity
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuu7781&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=b388ff&fire=00f5ff&currStreakLabel=00f5ff" width="70%"/>
+</div>
 
 ---
  
