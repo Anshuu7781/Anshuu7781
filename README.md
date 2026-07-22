@@ -2,92 +2,99 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ansh%20Srivastava&fontSize=40&fontColor=00f5ff&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer+%7C+Data+Scientist;Building+RAG+pipelines+with+LangChain;Open+to+AI%2FML+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=560&lines=Aspiring+AI%2FML+Engineer+%7C+Data+Scientist;Building+RAG+pipelines+with+LangChain;Open+to+AI%2FML+roles" alt="Typing SVG" />
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+### 🚀 About Me
+ 
+- 🎓 Bachelor of Computer Applications (BCA) @ **Shri Ramswaroop Memorial University**, Lucknow — 2023 to 2026
+- 🤖 I build **full-stack AI applications**, forecasting models, and **LLM-powered tools**
+- 💼 Machine Learning Intern @ **Future Interns** — built a sales forecasting pipeline & Power BI dashboard
+- 🧠 Currently exploring **RAG, LangChain, and Cloud ML (GCP)**
+- 📫 Reach me at **Ansh.sri.7781@gmail.com**
 
-### 🧬 About Me
-
-BCA student (Data Science & ML) at SRMU, graduating 2026.
-I build end-to-end ML systems — from data pipelines to deployed products — with a current focus on **LLM applications** and **time-series forecasting**.
-
-- 🔭 Currently building **RAG-powered assistants** with LangChain
-- 📊 Also deep in **forecasting & BI dashboards**
-- 🎯 Actively seeking **AI/ML Engineer** & **Data Scientist** roles
-- 📍 Prayagraj, India
-
-</td>
-<td width="40%" valign="top">
-
-### ⚡ Quick Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anshuu7781&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=b388ff&text_color=c9d1d9" width="100%"/>
-
-*(If this card is blank, see the note below — it's a known outage on GitHub's side, not your setup.)*
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
+---
+ 
 ### 🛠️ Tech Stack
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**ML / Data Science**
+ 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+ 
+**AI / GenAI**
+ 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square)
+ 
+**Web & Frameworks**
+ 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ 
+**Tools & Platforms**
+ 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+ 
+---
+ 
+### 🌟 Featured Projects
+ 
+**🤖 [AI Healthcare Assistant Chatbot](https://github.com/Anshuu7781)**
+Full-stack AI medical chatbot with a Python/LLM backend and a responsive JS frontend for real-time conversational Q&A. Includes a RESTful API layer for low-latency handling under concurrent use, with prompt templates and context-handling logic to reduce hallucination risk.
+`Python` `Flask` `LLM` `Prompt Engineering` `REST API`
+ 
+**📈 [AI Sales Forecasting Dashboard](https://github.com/Anshuu7781)**
+Prophet-based forecasting model with trend/seasonality decomposition generating 12-month retail sales predictions, backed by a Python/Pandas pipeline cleaning 10,000+ raw sales records — delivered through an interactive Power BI dashboard with region/category filters.
+`Python` `Pandas` `Prophet` `Power BI` `Time-Series`
+ 
+**🎓 [Student Score Predictor](https://github.com/Anshuu7781)**
+End-to-end ML web app predicting exam scores via Linear Regression (R² ≈ 0.78, RMSE ≈ 5.5), with a multi-page Streamlit interface, custom preprocessing pipeline, and a Plotly visual analytics dashboard.
+`Python` `Scikit-learn` `Streamlit` `Plotly`
+ 
+---
+ 
+### 📊 GitHub Stats
+ 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshuu7781&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuu7781&layout=compact&hide_border=true" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,flask,sklearn,streamlit,git,vscode,github&theme=dark" />
-
-<br><br>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00f5ff)
-![RAG](https://img.shields.io/badge/RAG-302b63?style=for-the-badge&logoColor=b388ff)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-24243e?style=for-the-badge&logoColor=00f5ff)
-![Prophet](https://img.shields.io/badge/Prophet-0f0c29?style=for-the-badge&logoColor=b388ff)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-302b63?style=for-the-badge&logo=postgresql&logoColor=00f5ff)
-
-</div>
-
-<br>
-
-## 🚀 Featured Builds
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🩺 [AI Healthcare Assistant Chatbot](https://github.com/Anshuu7781/Ai-Medical-Chatbot)**
-
-RAG-based medical assistant retrieving grounded context via LangChain before generating responses.
-
-`Python` `LangChain` `RAG` `Flask`
-
-</td>
-<td width="33%" valign="top">
-
-**📈 [AI Sales Forecasting Dashboard](https://github.com/Anshuu7781/AI-Sales-Forecasting-Dashboard)**
-
-Prophet-driven forecasting pipeline feeding an interactive Power BI dashboard for sales projections.
-
-`Python` `Prophet` `Power BI`
-
-</td>
-<td width="33%" valign="top">
-
-**🎓 [Student Score Predictor](https://github.com/Anshuu7781/Student-Score-Predictor)**
-
-Regression model predicting performance, benchmarked with R², RMSE, and MAE.
-
-`Scikit-learn` `NumPy`
-
-</td>
-</tr>
-</table>
-
+---
+ 
+### 🏅 Certifications
+ 
+- Gemini Certified University Student — *Google for Education*, Nov 2025
+- Full-Stack Web Development Bootcamp — *L&T EduTech*, Apr 2025
+- Blockchain and Cryptocurrency Mastery — *L&T EduTech*, Apr 2025
+- Starting with Generative AI — *Databell Technologies Pvt. Ltd.*, Jul 2024
+---
+ 
+<p align="center">
+  <i>Open to internships and collaborations in AI/ML and full-stack development.</i>
+</p>
+ 
 <div align="center">
 
 ### 📫 Let's Connect
