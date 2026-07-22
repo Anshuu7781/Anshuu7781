@@ -16,13 +16,32 @@ jobs:
 
       - name: Generate stats SVG
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=Anshuu7781&show_icons=true&hide_border=true" -o stats.svg
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuu7781&layout=compact&hide_border=true" -o top-langs.svg
+          fetch_svg() {
+            url="$1"
+            out="$2"
+            tmp=$(mktemp)
+            if curl -sf "$url" -o "$tmp" && head -c 4 "$tmp" | grep -q "<svg\|<?xm"; then
+              mv "$tmp" "$out"
+              echo "OK: $out updated"
+            else
+              echo "WARN: fetch failed or invalid response for $out, keeping existing file"
+              rm -f "$tmp"
+            fi
+          }
+
+          # Primary source
+          fetch_svg "https://github-readme-stats.vercel.app/api?username=Anshuu7781&show_icons=true&hide_border=true" stats.svg
+          fetch_svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuu7781&layout=compact&hide_border=true" top-langs.svg
+
+          # If primary failed (file still missing), try backup source
+          if [ ! -s stats.svg ] || ! head -c 4 stats.svg | grep -q "<svg\|<?xm"; then
+            fetch_svg "https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Anshuu7781&show_icons=true&hide_border=true" stats.svg
+          fi
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats.svg top-langs.svg
+          git add stats.svg top-langs.svg 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Update stats"
           git push
