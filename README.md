@@ -6,9 +6,9 @@
 
 </div>
 
----
+----
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 **BCA Graduate** — Shri Ramswaroop Memorial University, Lucknow (2023 – 2026)
 - 🤖 I build real-world, impact-driven projects at the intersection of **AI, machine learning, and software development**. My goal is to work in a product-based company and contribute to scalable, meaningful technology.
@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 **Machine Learning Intern** — *Future Interns (Remote)* · Nov 2025 – Dec 2025
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -54,19 +54,35 @@
 
 ---
 
-### 🌟 Featured Projects
-
-**🤖 [HealthBot — Healthcare Information Chatbot](https://github.com/Anshuu7781)**
-Rule-based health Q&A chatbot with a keyword-matching engine covering **41 health topics** (first aid, chronic conditions, mental health, nutrition). Backed by a Flask REST API with input validation, error handling, and logging, served via Gunicorn and deployed on Render, with a responsive JavaScript frontend. Built as my university capstone project.
-`Python` `Flask` `REST API` `JavaScript`
-
-**📈 [AI Sales Forecasting Dashboard](https://github.com/Anshuu7781)**
-Prophet-based model with trend/seasonality decomposition generating **12-month retail sales predictions**, powered by a Python/Pandas pipeline that cleans and structures **10,000+ raw sales records**. Delivered through an interactive **Power BI** dashboard with region/category filters for stakeholder-ready insights.
-`Python` `Pandas` `Prophet` `Power BI` `Time-Series`
+## 📌 Featured Projects
 
 ---
 
-### 🏅 Certifications
+### 🤖 [HealthBot — Healthcare Information Chatbot](https://github.com/Anshuu7781)
+> Python, Flask, REST API, JavaScript
+
+-	Built a rule-based health Q&A chatbot with a keyword-matching engine covering 41 health topics (first aid, chronic conditions, mental health, nutrition).
+-	Developed a Flask REST API with input validation, error handling and logging, served via Gunicorn.
+-	Created a responsive JavaScript frontend and deployed the backend on Render.
+
+
+[![Repository](https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Anshuu7781/Healthbot-Healthcare-Chatbot)
+
+
+---
+
+### 📈 [AI Sales Forecasting Dashboard](https://github.com/Anshuu7781)
+> Python, Pandas, Prophet, Power BI, Time-Series
+
+-	Built a Prophet-based forecasting model with trend/seasonality decomposition to generate 12-month retail sales predictions. 
+-	Engineered a Python/Pandas pipeline to clean and structure 10,000+ raw sales records for time-series modelling.
+-	Delivered an interactive Power BI dashboard with region/category filters, turning forecasts into stakeholder-ready insights.
+
+[![Repository](https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Anshuu7781/AI-Sales-Forecasting-Dashboard)
+
+---
+
+## 🏅 Certifications
 
 - **Gemini Certified University Student** — *Google for Education* · Nov 2025
 - **Full-Stack Web Development Bootcamp** — *L&T EduTech* · Apr 2025
@@ -75,25 +91,31 @@ Prophet-based model with trend/seasonality decomposition generating **12-month r
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuu7781&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuu7781&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=b388ff&fire=00f5ff&currStreakLabel=00f5ff)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuu7781&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="./stats.svg" alt="GitHub Stats" height="150" /> <img src="./top-langs.svg" alt="Top Languages" height="150" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshuu7781&theme=tokyonight&column=6&no-frame=true&margin-w=8" />
+</p>
 
 ---
 
-### 🌐 Languages
+## 🌐 Languages
 
 **English** — Professional Working Proficiency &nbsp;|&nbsp; **Hindi** — Native / Bilingual
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
