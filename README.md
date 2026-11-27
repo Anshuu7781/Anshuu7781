@@ -94,7 +94,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuu7781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuu7781&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
