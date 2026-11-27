@@ -1,105 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ansh%20Srivastava&fontSize=40&fontColor=00f5ff&fontAlignY=45" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ansh%20Srivastava&fontSize=40&fontColor=00f5ff&fontAlignY=45)
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=560&lines=Aspiring+AI%2FML+Engineer+%7C+Data+Scientist;Building+RAG+pipelines+with+LangChain;Open+to+AI%2FML+roles" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&lines=BCA+Graduate+%7C+AI%2FML+Enthusiast;Machine+Learning+%C2%B7+Generative+AI+%C2%B7+Software+Development;Open+to+AI%2FML+and+Software+roles)](https://github.com/Anshuu7781)
 
 </div>
 
 ---
 
 ### 🚀 About Me
- 
-- 🎓 Bachelor of Computer Applications (BCA) @ **Shri Ramswaroop Memorial University**, Lucknow — 2023 to 2026
-- 🤖 I build **full-stack AI applications**, forecasting models, and **LLM-powered tools**
-- 💼 Machine Learning Intern @ **Future Interns** — built a sales forecasting pipeline & Power BI dashboard
-- 🧠 Currently exploring **RAG, LangChain, and Cloud ML (GCP)**
-- 📫 Reach me at **Ansh.sri.7781@gmail.com**
+
+- 🎓 **BCA Graduate** — Shri Ramswaroop Memorial University, Lucknow (2023 – 2026)
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
+- 🏗️ I enjoy building real-world, impact-driven projects and sharpening my problem-solving and system design skills
+- 💼 **Machine Learning Intern** @ Future Interns — built an automated sales forecasting pipeline
+- 🧠 Working with **LLMs, NLP, RAG, and LangChain**; also exploring **Blockchain & Cryptocurrency**
+- 🎯 Long-term goal: contribute to scalable, meaningful technology at a top product-based company
+- 📍 Prayagraj, India &nbsp;|&nbsp; 📫 **[Ansh.sri.7781@gmail.com](mailto:Ansh.sri.7781@gmail.com)**
 
 ---
- 
+
+### 💼 Experience
+
+**Machine Learning Intern** — *Future Interns (Remote)* · Nov 2025 – Dec 2025
+
+- Engineered an automated sales forecasting pipeline with **Facebook Prophet**, modeling trend and seasonality across multiple product categories to generate **12-month forecasts** — replacing a manual spreadsheet-based process.
+- Cleaned, validated, and transformed **10,000+ historical sales records** using Python and Pandas, resolving missing values, outliers, and inconsistent date formats to build a reliable time-series dataset.
+
+---
+
 ### 🛠️ Tech Stack
- 
+
 **Languages**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
- 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / Generative AI**
+
+![LLMs](https://img.shields.io/badge/LLMs-6E56CF?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square)
+
 **ML / Data Science**
- 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
- 
-**AI / GenAI**
- 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square)
- 
-**Web & Frameworks**
- 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
- 
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Prophet](https://img.shields.io/badge/Prophet-0467DF?style=flat-square)
+
+**Backend & Web**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 **Tools & Platforms**
- 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
- 
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white) ![Emergent](https://img.shields.io/badge/Emergent-6C47FF?style=flat-square) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square)
+
 ---
- 
+
 ### 🌟 Featured Projects
- 
-**🤖 [AI Healthcare Assistant Chatbot](https://github.com/Anshuu7781)**
-Full-stack AI medical chatbot with a Python/LLM backend and a responsive JS frontend for real-time conversational Q&A. Includes a RESTful API layer for low-latency handling under concurrent use, with prompt templates and context-handling logic to reduce hallucination risk.
-`Python` `Flask` `LLM` `Prompt Engineering` `REST API`
- 
+
+**🤖 [HealthBot — Healthcare Information Chatbot](https://github.com/Anshuu7781)**
+Rule-based health Q&A chatbot with a keyword-matching engine covering **41 health topics** (first aid, chronic conditions, mental health, nutrition). Backed by a Flask REST API with input validation, error handling, and logging, served via Gunicorn and deployed on Render, with a responsive JavaScript frontend. Built as my university capstone project.
+`Python` `Flask` `REST API` `JavaScript`
+
 **📈 [AI Sales Forecasting Dashboard](https://github.com/Anshuu7781)**
-Prophet-based forecasting model with trend/seasonality decomposition generating 12-month retail sales predictions, backed by a Python/Pandas pipeline cleaning 10,000+ raw sales records — delivered through an interactive Power BI dashboard with region/category filters.
+Prophet-based model with trend/seasonality decomposition generating **12-month retail sales predictions**, powered by a Python/Pandas pipeline that cleans and structures **10,000+ raw sales records**. Delivered through an interactive **Power BI** dashboard with region/category filters for stakeholder-ready insights.
 `Python` `Pandas` `Prophet` `Power BI` `Time-Series`
- 
+
 **🎓 [Student Score Predictor](https://github.com/Anshuu7781)**
-End-to-end ML web app predicting exam scores via Linear Regression (R² ≈ 0.78, RMSE ≈ 5.5), with a multi-page Streamlit interface, custom preprocessing pipeline, and a Plotly visual analytics dashboard.
+End-to-end ML web app predicting exam scores with Linear Regression (**R² ≈ 0.78, RMSE ≈ 5.5**), featuring a multi-page Streamlit interface, a custom preprocessing pipeline, and a Plotly analytics dashboard.
 `Python` `Scikit-learn` `Streamlit` `Plotly`
- 
+
 ---
- 
-### 📊 Activity
+
+### 🏅 Certifications
+
+- **Gemini Certified University Student** — *Google for Education* · Nov 2025
+- **Full-Stack Web Development Bootcamp** — *L&T EduTech* · Apr 2025
+- **Blockchain and Cryptocurrency Mastery** — *L&T EduTech* · Apr 2025
+- **Starting with Generative AI** — *Databell Technologies Pvt. Ltd.* · Jul 2024
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuu7781&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=b388ff&fire=00f5ff&currStreakLabel=00f5ff" width="70%"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshuu7781&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f5ff&ring=b388ff&fire=00f5ff&currStreakLabel=00f5ff)
+
+<img src="./stats.svg" alt="GitHub Stats" height="150" /> <img src="./top-langs.svg" alt="Top Languages" height="150" />
+
 </div>
 
 ---
- 
-### 🏅 Certifications
- 
-- Gemini Certified University Student — *Google for Education*, Nov 2025
-- Full-Stack Web Development Bootcamp — *L&T EduTech*, Apr 2025
-- Blockchain and Cryptocurrency Mastery — *L&T EduTech*, Apr 2025
-- Starting with Generative AI — *Databell Technologies Pvt. Ltd.*, Jul 2024
+
+### 🌐 Languages
+
+**English** — Professional Working Proficiency &nbsp;|&nbsp; **Hindi** — Native / Bilingual
+
 ---
- 
-<p align="center">
-  <i>Open to internships and collaborations in AI/ML and full-stack development.</i>
-</p>
- 
-<div align="center">
 
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/ansh-srivastava-a2a04a310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Ansh.sri.7781@gmail.com"><img src="https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=00f5ff"/></a>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-srivastava-a2a04a310) [![Email](https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:Ansh.sri.7781@gmail.com)
+
+*Open to internships, full-time roles, and collaborations in AI/ML and software development.*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
 
 </div>
