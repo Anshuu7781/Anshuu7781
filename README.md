@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Ansh%20Srivastava&fontSize=40&fontColor=00f5ff&fontAlignY=45)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&lines=BCA+Graduate+%7C+AI%2FML+Enthusiast;Machine+Learning+%C2%B7+Generative+AI+%C2%B7+Software+Development;Open+to+AI%2FML+and+Software+roles)](https://github.com/Anshuu7781)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=600&lines=BCA+Graduate+%7C+AI%2FML+Enthusiast;Machine+Learning+%C2%B7+Gen+AI+%C2%B7+Software+Development;Open+to+AI%2FML+and+Software+roles)](https://github.com/Anshuu7781)
 
 </div>
 
@@ -11,12 +11,9 @@
 ### 🚀 About Me
 
 - 🎓 **BCA Graduate** — Shri Ramswaroop Memorial University, Lucknow (2023 – 2026)
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**
-- 🏗️ I enjoy building real-world, impact-driven projects and sharpening my problem-solving and system design skills
-- 💼 **Machine Learning Intern** @ Future Interns — built an automated sales forecasting pipeline
+- 🤖 I build real-world, impact-driven projects at the intersection of **AI, machine learning, and software development**. My goal is to work in a product-based company and contribute to scalable, meaningful technology.
+- 💼 **Ex Machine Learning Intern** @ Future Interns — built an automated sales forecasting pipeline
 - 🧠 Working with **LLMs, NLP, RAG, and LangChain**; also exploring **Blockchain & Cryptocurrency**
-- 🎯 Long-term goal: contribute to scalable, meaningful technology at a top product-based company
-- 📍 Prayagraj, India &nbsp;|&nbsp; 📫 **[Ansh.sri.7781@gmail.com](mailto:Ansh.sri.7781@gmail.com)**
 
 ---
 
@@ -66,10 +63,6 @@ Rule-based health Q&A chatbot with a keyword-matching engine covering **41 healt
 **📈 [AI Sales Forecasting Dashboard](https://github.com/Anshuu7781)**
 Prophet-based model with trend/seasonality decomposition generating **12-month retail sales predictions**, powered by a Python/Pandas pipeline that cleans and structures **10,000+ raw sales records**. Delivered through an interactive **Power BI** dashboard with region/category filters for stakeholder-ready insights.
 `Python` `Pandas` `Prophet` `Power BI` `Time-Series`
-
-**🎓 [Student Score Predictor](https://github.com/Anshuu7781)**
-End-to-end ML web app predicting exam scores with Linear Regression (**R² ≈ 0.78, RMSE ≈ 5.5**), featuring a multi-page Streamlit interface, a custom preprocessing pipeline, and a Plotly analytics dashboard.
-`Python` `Scikit-learn` `Streamlit` `Plotly`
 
 ---
 
