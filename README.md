@@ -58,7 +58,7 @@
 
 ---
 
-### 🤖 [HealthBot — Healthcare Information Chatbot](https://github.com/Anshuu7781)
+### 🤖 HealthBot — Healthcare Information Chatbot
 > Python, Flask, REST API, JavaScript
 
 -	Built a rule-based health Q&A chatbot with a keyword-matching engine covering 41 health topics (first aid, chronic conditions, mental health, nutrition).
@@ -71,7 +71,7 @@
 
 ---
 
-### 📈 [AI Sales Forecasting Dashboard](https://github.com/Anshuu7781)
+### 📈 AI Sales Forecasting Dashboard
 > Python, Pandas, Prophet, Power BI, Time-Series
 
 -	Built a Prophet-based forecasting model with trend/seasonality decomposition to generate 12-month retail sales predictions. 
